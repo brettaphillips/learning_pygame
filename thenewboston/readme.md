@@ -9,4 +9,11 @@
 | 1 | * Setup & installation instructions |
 | 2 | * Elements required for every pygame script |
 | 3 | * Event introduction |
-| 4 | *
+| 4 | * Event docs and pygame.QUIT |
+
+
+
+
+Reference Links:
+
+* [All PyGame Events](https://www.pygame.org/docs/ref/event.html)
