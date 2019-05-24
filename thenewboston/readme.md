@@ -16,9 +16,20 @@
 |  8 | * Moving by holding down keys (basic intro) |
 |  9 | * Frames Per Second |
 | 10 | * Stop moving using pygame.KEYUP |
+| 11 | * Moving up & down. Preventing diagonal movement |
 
 
 
-Reference Links:
+### Reference Links
 
 * [All PyGame Events](https://www.pygame.org/docs/ref/event.html)
+
+
+### Notes
+
+Common Frames Per Second:
+
+| FPS | Use | 
+|-----|---| 
+| 30  | Consided a very good FPS rate.  Most commonly used. |
+| 60  | Common FPS for fast-moving type games -- think FPS |
