@@ -17,7 +17,7 @@
 |  9 | * Frames Per Second |
 | 10 | * Stop moving using pygame.KEYUP |
 | 11 | * Moving up & down. Preventing diagonal movement |
-
+| 12 | * Adding boundaries |
 
 
 ### Reference Links
