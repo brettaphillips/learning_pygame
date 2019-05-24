@@ -12,6 +12,7 @@
 | 4 | * Event docs and pygame.QUIT |
 | 5 | * Set colors and fill screen |
 | 6 | * Drawing rectangles using draw or fill |
+| 7 | * Moving drawings with the keyboard pygame.KEYDOWN |
 
 
 
