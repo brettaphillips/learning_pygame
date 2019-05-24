@@ -7,4 +7,6 @@
 | Vid | Topics |
 |-----|---|
 | 1 | * Setup & installation instructions |
-| 2 | 
+| 2 | * Elements required for every pygame script |
+| 3 | * Event introduction |
+| 4 | *
