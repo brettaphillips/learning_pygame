@@ -6,15 +6,15 @@
 
 | Vid | Topics |
 |-----|---|
-| 1 | * Setup & installation instructions |
-| 2 | * Elements required for every pygame script |
-| 3 | * Event introduction |
-| 4 | * Event docs and pygame.QUIT |
-| 5 | * Set colors and fill screen |
-| 6 | * Drawing rectangles using draw or fill |
-| 7 | * Moving drawings with the keyboard pygame.KEYDOWN |
-| 8 | * Moving by holding down keys (basic intro) |
-
+|  1 | * Setup & installation instructions |
+|  2 | * Elements required for every pygame script |
+|  3 | * Event introduction |
+|  4 | * Event docs and pygame.QUIT |
+|  5 | * Set colors and fill screen |
+|  6 | * Drawing rectangles using draw or fill |
+|  7 | * Moving drawings with the keyboard pygame.KEYDOWN |
+|  8 | * Moving by holding down keys (basic intro) |
+|  9 | * Frames Per Second |
 
 
 
