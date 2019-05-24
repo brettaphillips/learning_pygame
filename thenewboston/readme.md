@@ -10,6 +10,7 @@
 | 2 | * Elements required for every pygame script |
 | 3 | * Event introduction |
 | 4 | * Event docs and pygame.QUIT |
+| 5 | * Set colors and fill screen |
 
 
 
