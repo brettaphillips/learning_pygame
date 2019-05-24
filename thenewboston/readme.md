@@ -15,7 +15,7 @@
 |  7 | * Moving drawings with the keyboard pygame.KEYDOWN |
 |  8 | * Moving by holding down keys (basic intro) |
 |  9 | * Frames Per Second |
-
+| 10 | * Stop moving using pygame.KEYUP |
 
 
 
