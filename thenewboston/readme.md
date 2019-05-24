@@ -13,6 +13,7 @@
 | 5 | * Set colors and fill screen |
 | 6 | * Drawing rectangles using draw or fill |
 | 7 | * Moving drawings with the keyboard pygame.KEYDOWN |
+| 8 | * Moving by holding down keys (basic intro) |
 
 
 
