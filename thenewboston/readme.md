@@ -18,6 +18,7 @@
 | 10 | * Stop moving using pygame.KEYUP |
 | 11 | * Moving up & down. Preventing diagonal movement |
 | 12 | * Adding boundaries |
+| 13 | * Replace hardcoded values with variables | 
 
 
 ### Reference Links
