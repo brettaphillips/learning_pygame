@@ -11,6 +11,8 @@
 | 3 | * Event introduction |
 | 4 | * Event docs and pygame.QUIT |
 | 5 | * Set colors and fill screen |
+| 6 | * Drawing rectangles using draw or fill |
+
 
 
 
